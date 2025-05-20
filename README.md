@@ -89,3 +89,7 @@ Each transaction is represented as a single line in CSV format:
 javac ExpenseTracker.java TransactionManager.java Transaction.java TransactionType.java
 
 
+## Project Snippets
+
+![Screenshot 2025-05-04 131334](https://github.com/user-attachments/assets/ce344a79-8408-4636-ac9f-71425ffdab5e)
+
