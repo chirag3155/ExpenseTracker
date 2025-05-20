@@ -1,0 +1,37 @@
+
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ã£°şÿÿÿÿ8˜¨‡èî2
+G	java:S106#"+Replace this use of System.out by a logger.(êÉ·8›¨‡èî2
+L	java:S106/"+Replace this use of System.out by a logger.(šô¹ğıÿÿÿÿ8œ¨‡èî2
+L	java:S1067"+Replace this use of System.out by a logger.(Æúüûÿÿÿÿ8œ¨‡èî2
+L	java:S106A"+Replace this use of System.out by a logger.(–Ïâíúÿÿÿÿ8¨‡èî2
+G	java:S106E"+Replace this use of System.out by a logger.(Úš‚©8¨‡èî2
+L	java:S106O"+Replace this use of System.out by a logger.(˜ğÜ ûÿÿÿÿ8¨‡èî2
+o
+java:S6204W"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8·ÒŸèî2
+L	java:S106Y"+Replace this use of System.out by a logger.(ÁàŸÑúÿÿÿÿ8£¨‡èî2
+G	java:S106p"+Replace this use of System.out by a logger.(ÁÂÈÒ8£¨‡èî2
+G	java:S106q"+Replace this use of System.out by a logger.(ğÔ‘¬8£¨‡èî2
+s
+java:S3457r"Q%n should be used in place of \n to produce the platform-specific line separator.(´û²Ëıÿÿÿÿ8£¨‡èî2
+L	java:S106r"+Replace this use of System.out by a logger.(´û²Ëıÿÿÿÿ8£¨‡èî2
+n
+java:S3457s"Q%n should be used in place of \n to produce the platform-specific line separator.(·éñ³8£¨‡èî2
+G	java:S106s"+Replace this use of System.out by a logger.(·éñ³8£¨‡èî2
+n
+java:S3457t"Q%n should be used in place of \n to produce the platform-specific line separator.(ş£û8£¨‡èî2
+G	java:S106t"+Replace this use of System.out by a logger.(ş£û8£¨‡èî2
+L	java:S106v"+Replace this use of System.out by a logger.( ñ‹­ıÿÿÿÿ8¥¨‡èî2
+G	java:S106x"+Replace this use of System.out by a logger.(•ô±´8¦¨‡èî2
+n
+java:S3457z"Q%n should be used in place of \n to produce the platform-specific line separator.(ÍÅó8¥¨‡èî2
+G	java:S106z"+Replace this use of System.out by a logger.(ÍÅó8¦¨‡èî2
+F	java:S106}"+Replace this use of System.out by a logger.(¾ÈãQ8¦¨‡èî2
+G	java:S106"+Replace this use of System.out by a logger.(•ô±´8¦¨‡èî2
+o
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(²§¯Ì8¦¨‡èî2
+H	java:S106"+Replace this use of System.out by a logger.(²§¯Ì8èÒŸèî2
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8˜Ç‡èî2
+O
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8êÒŸèî2
