@@ -91,5 +91,13 @@ javac ExpenseTracker.java TransactionManager.java Transaction.java TransactionTy
 
 ## Project Snippets
 
-![Screenshot 2025-05-04 131334](https://github.com/user-attachments/assets/ce344a79-8408-4636-ac9f-71425ffdab5e)
+![Screenshot 1](images/Screenshot%202025-05-20%20151115.png)
+
+![Screenshot 2](images/Screenshot%202025-05-20%20151205.png)
+
+![Screenshot 3](images/Screenshot%202025-05-20%20152810.png)
+
+![Screenshot 4](images/Screenshot%202025-05-20%20152838.png)
+
+
 
